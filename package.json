@@ -1,0 +1,22 @@
+{
+  "name": "bacon",
+  "version": "1.0.0",
+  "description": "Bacon Number API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhoney/bacon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markhoney/bacon/issues"
+  },
+  "homepage": "https://github.com/markhoney/bacon#readme",
+  "dependencies": {
+    "neo4j-driver": "^4.1.0"
+  }
+}
